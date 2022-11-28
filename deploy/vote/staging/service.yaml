@@ -10,4 +10,4 @@ spec:
     protocol: TCP
     targetPort: 80
     app: vote
-  type: LoadBalancer 
+  type: NodePort
